@@ -7,3 +7,4 @@ public class service {
 	}
 
 }
+//sum of two number
